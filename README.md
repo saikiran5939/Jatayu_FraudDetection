@@ -7,17 +7,24 @@ Install Vscode :
   https://code.visualstudio.com/download
   
 open command prompt install flask:
-  pip install flak
-create a folder in that create a template name folder place an index.html file.
-also create an python file name project.py.
-In projec.py write the code as follows:
-  from flask import Flask, render_template
-  app = Flask(_name_,template_folder='template')
-  @app.route('/')
-  def hello():
-    return render_template('index.html')
-  if _name_ == '_main_':
+pip install flask
+
+create a folder in that and create a template name folder place an index.html file.
+and also create a python file name project.py
+
+In project.py write the code as follows:
+from flask import Flask,render_template
+app=Flask(_name_,template_folde r='template')
+@app.route('/')
+def hello():
+    return
+render_template('index.html')
+if_name_=='_main_':
     app.run(debug=True)
+    
 Write any data on html file and then run the project.py
-It will show the localhost site Click on it.
+It will show the localhost site click on it.
 Some data will show in this way the flask is successfully installed.
+    
+    
+
