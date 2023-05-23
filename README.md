@@ -5,6 +5,7 @@ Demo video link: https://drive.google.com/file/d/1xAhRTbrjJq3vH4OohEnUlqaqFO6msV
 
 Install Vscode :
   https://code.visualstudio.com/download
+  
 open command prompt install flask:
   pip install flak
 create a folder in that create a template name folder place an index.html file.
