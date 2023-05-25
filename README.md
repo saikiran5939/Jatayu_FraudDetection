@@ -1,30 +1,39 @@
-# Jatayu_FraudDetection
-Perfect web for Fraud Detection using Ml
-Demo video link: https://drive.google.com/file/d/1xAhRTbrjJq3vH4OohEnUlqaqFO6msVHY/view?usp=share_link
+
+# AI ML MODELS TO PREDICT CLAIMS FRAUDS (Payers Facing)
+ 
+## Demo
+
+https://drive.google.com/file/d/1xAhRTbrjJq3vH4OohEnUlqaqFO6msVHY/view?usp=share_link
 
 
-Install Vscode :
-  https://code.visualstudio.com/download
-  
-open command prompt install flask:
-pip install flask
+## Deployment
 
-create a folder in that and create a template name folder place an index.html file.
-and also create a python file name project.py
+To deploy this project open command prompt install flask and python: 
 
-In project.py write the code as follows:
-from flask import Flask,render_template
-app=Flask(_name_,template_folde r='template')
-@app.route('/')
-def hello():
-    return
-render_template('index.html')
-if_name_=='_main_':
-    app.run(debug=True)
-    
-Write any data on html file and then run the project.py
-It will show the localhost site click on it.
-Some data will show in this way the flask is successfully installed.
-    
-    
+```bash
+  pip install flask
+  pip install python
+
+```
+Open Project folder and in that folder open comand prompt
+
+Type:
+```bash
+   py project.py 
+
+```
+Press Enter and the we will get a link .
+
+click on that link. it will take directly to the website page.
+
+In that website in home page click on Getstarted button.
+
+Now enter the data input values which are given in dataset  in the given from.
+
+after entering the values you can the result that the person data is fraud or not fraud and also it shows how much accurate the data is.
+
+
+
+ 
+ 
 
