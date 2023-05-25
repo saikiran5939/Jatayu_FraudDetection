@@ -30,7 +30,7 @@ In that website in home page click on Getstarted button.
 
 Now enter the data input values which are given in dataset  in the given from.
 
-after entering the values you can the result that the person data is fraud or not fraud and also it shows how much accurate the data is.
+After entering the values you can the result that the person data is fraud or not fraud and also it shows how much accurate the data is.
 
 
 
