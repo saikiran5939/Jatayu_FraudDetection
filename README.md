@@ -24,15 +24,16 @@ Type:
 ```
 Press Enter and the we will get a link .
 
-click on that link. it will take directly to the website page.
+Click on that link.
+ It will take directly to the website page(HINFRADE).
 
-In that website in home page click on Getstarted button.
+In HINFRADE  Home Page click on Getstarted button.
 
-Now enter the data input values which are given in dataset  in the given from.
+Now enter the data input values in the form(HINFRADE).
 
-After entering the values you can the result that the person data is fraud or not fraud and also it shows how much accurate the data is.
+After entering the values you can see  the result that by using HINFRADE it can detect the data  claimed by the policyholder is fraud or not fraud and also it shows how much accurate the data.
 
-
+Further Any Quries to Access (FOLLOW THE LINK): https://drive.google.com/file/d/1adAdVzESkk3zKSLoX4iZHDfeBRjwhCSY/view?usp=share_link
 
  
  
