@@ -22,7 +22,7 @@ Type:
    py project.py 
 
 ```
-Press Enter and the we will get a link .
+Press Enter and then we will get a link .
 
 Click on that link.
  It will take directly to the website page(HINFRADE).
